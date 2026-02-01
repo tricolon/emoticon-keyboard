@@ -1,11 +1,14 @@
 # Emoticon Keyboard for Android
 
-![Showcase video showing some features of emoticon keyboard](showcase-video.gif)
+Typing emoticons and kaomojis was never that easy! Available *for free* to every Android user.
 
-- Typing emoticons and kaomojis was never that easy!
+<img src="showcase-video.gif" alt="Showcase video showing some features of emoticon keyboard" width="450"/>
+
+## Description
+
+- Dedicated keys for particular emoticon features.
 - Be creative! There are endless possibilities with this keyboard.
 - Based on [HeliBoard](https://github.com/Helium314/HeliBoard)
-
 
 ## Installation
 
@@ -23,7 +26,7 @@ You’re done! If you get errors, try the manual installation.
 **Manual installation**
 
 1. Download `emoticon_keyboard.txt`, `emoticon_symbols.txt` and `emoticon_more_symbols.txt` to your Android device.
-2. Install HeliBoard as described above (quick installation).
+2. Install HeliBoard as described above (Quick installation 2.–4.).
 3. In the HeliBoard Settings, go to `Secondary layouts`, select `Symbols`, press `Load file` and select the downloaded `emoticon_symbols.txt`
 4. Press `close`, then select `More symbols`, press `Load file` and select the downloaded `emoticon_more_symbols.txt`
 5. Go back to the main menu, select `Languages & Layouts`, scroll down and switch on “No language”.
