@@ -1,5 +1,7 @@
 # Emoticon Keyboard for Android
 
+![Showcase video showing some features of emoticon keyboard](showcase-video.gif)
+
 - Typing emoticons and kaomojis was never that easy!
 - Be creative! There are endless possibilities with this keyboard.
 - Based on [HeliBoard](https://github.com/Helium314/HeliBoard)
