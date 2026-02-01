@@ -1,6 +1,6 @@
 # Emoticon Keyboard for Android
 
-![Showcase video showing some features of emoticon keyboard](showcase-video.gif)
+<img src="showcase-video.gif" alt="Showcase video showing some features of emoticon keyboard" width="450"/>
 
 - Typing emoticons and kaomojis was never that easy!
 - Be creative! There are endless possibilities with this keyboard.
