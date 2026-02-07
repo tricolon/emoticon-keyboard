@@ -28,7 +28,7 @@ Typing emoticons and kaomojis was never that easy! Available *for free* to every
 
 You’re done! If you get errors, try the manual installation.
 
-### Manual installation
+### Manual installation (always works)
 
 1. Download `emoticon_keyboard.txt`, `emoticon_symbols.txt` and `emoticon_more_symbols.txt` to your Android device.
 2. If not already done, install HeliBoard as described above (Quick installation 2.–3.).
