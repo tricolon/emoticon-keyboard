@@ -15,8 +15,8 @@ Typing emoticons and kaomojis was never that easy! Available *for free* to every
 **Quick installation** (if you have never used HeliBoard before)
 
 1. Download `emoticon_keyboard.zip` to your Android device.
-2. Install [F-Droid](https://f-droid.org/) following the [official guidelines](https://f-droid.org/docs/Get_F-Droid/).
-3. Install [HeliBoard](https://f-droid.org/packages/helium314.keyboard/) using F-Droid.
+2. Install HeliBoard by installing the apk file [available here](https://github.com/Helium314/HeliBoard/releases).<br/>
+   **Alternative:** Install [F-Droid](https://f-droid.org/) and then install [HeliBoard](https://f-droid.org/packages/helium314.keyboard/) using F-Droid.
 4. Activate HeliBoard in the Android settings, following HeliBoard’s instructions.
 5. In the HeliBoard Settings, go to `Advanced` and select `Backup and restore`.
 6. In the pop-up, press on `Restore` and select the downloaded `emoticon_keyboard.zip`.
