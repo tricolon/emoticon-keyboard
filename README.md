@@ -7,11 +7,13 @@ Typing emoticons and kaomojis was never that easy! Available *for free* to every
 ## Description
 
 - Dedicated keys for particular emoticon features.
+- Press and hold the keys to display many more features!
+- The secondary keyboard (press `?123` key) contains classic color emoticons + pre-made kaomojis
 - Be creative! There are endless possibilities with this keyboard.
 - Based on [HeliBoard](https://github.com/Helium314/HeliBoard)
 - Here a short showcase gif:
 
-<img src="showcase-video.gif" alt="Showcase video showing some features of emoticon keyboard" width="450"/>
+  <img src="showcase-video.gif" alt="Showcase video showing some features of emoticon keyboard" width="450"/>
 
 ## Installation
 
