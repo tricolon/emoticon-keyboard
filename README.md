@@ -6,6 +6,8 @@ Typing emoticons and kaomojis was never that easy! Available *for free* to every
 
 ## Description
 
+<img src="features.png" alt="Emoticon keyboard has dedicated keys for particular emoticon features (eyes, mouths, noses, etc.)" width="450"/>
+
 - Dedicated keys for particular emoticon features.
 - Be creative! There are endless possibilities with this keyboard.
 - Based on [HeliBoard](https://github.com/Helium314/HeliBoard)
